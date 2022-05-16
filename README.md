@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Markus Robinson
+- 👀 I’m a current computer science student at Simon Fraser University in BC and interested in smart contract development and blockchain technologies
+- 🌱 I’m currently learning Solidity / web3.py
+- 📫 How to reach me: Markusr@sfu.ca
